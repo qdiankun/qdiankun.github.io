@@ -2,13 +2,6 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://yoursite-url/tags/Book/</loc>
-        <lastmod>2018-01-16T14:33:09.712Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://yoursite-url/tags/Hexo/</loc>
         <lastmod>2018-01-20T06:02:56.879Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -23,8 +16,15 @@
     </url>
 
     <url>
+        <loc>http://yoursite-url/tags/Book/</loc>
+        <lastmod>2018-01-31T13:22:16.465Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://yoursite-url/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
-        <lastmod>2018-01-20T10:21:23.334Z</lastmod>
+        <lastmod>2018-02-01T15:00:09.760Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
